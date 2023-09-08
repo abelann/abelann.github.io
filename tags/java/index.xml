@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Java on Abel R. Nuñez</title>
+        <link>https://abelann.github.io/tags/java/</link>
+        <description>Recent content in Java on Abel R. Nuñez</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://abelann.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Head First Java</title>
+        <link>https://abelann.github.io/p/head-first-java/</link>
+        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://abelann.github.io/p/head-first-java/</guid>
+        <description>&lt;img src="https://abelann.github.io/p/head-first-java/cover.jpg" alt="Featured image of post Head First Java" /&gt;&lt;p&gt;Head First Java is meant for Java beginners, focusing on Java 8-17. What sets it apart from other Java books is its engaging and fun writing style. The book covers a wide range of topics, starting with fundamental concepts like variable types and gradually delving into more advanced topics such as concurrency and server interactions. This comprehensive approach ensures that beginners gain a solid understanding of core Java and OOP principles.&lt;/p&gt;
+&lt;p&gt;One of the book&amp;rsquo;s strengths is its active learning approach. Each chapter incorporates exercises and quizzes that not only test comprehension of the material but also reinforce your understanding of the code. This interactive approach is highly effective in solidifying knowledge. Furthermore, Head First Java goes beyond merely introducing Java concepts; it also presents the drawbacks and limitations of certain statements or interfaces and offers alternative solutions.&lt;/p&gt;
+&lt;p&gt;The hands-on projects included in the later chapters are particularly engaging. Personally, I found the QuizCard Player project to be the most enjoyable. It provided a practical application of Java concepts, especially when working with the split method for file manipulation. As an Anki user, this project was particularly relevant and beneficial.&lt;/p&gt;
+&lt;p&gt;In summary, &amp;ldquo;Head First Java&amp;rdquo; is a well-rounded book that equips beginners with a solid foundation in Java, making the studying process enjoyable and practical. I would 100% recommend this book to anyone seeking to get into the world of Java.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Photo by &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/@pawel_czerwinski&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Pawel Czerwinski&lt;/a&gt; on &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
